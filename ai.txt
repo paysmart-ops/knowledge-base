@@ -7,7 +7,7 @@
 ENTITY IDENTIFICATION
 ==============================
 
-# Metofina was an early project founded in 2022 by Ami-Ikhine Kingsley, The project is no longer active, It has been fully discontinued and replaced by NLL Technology Limited, a formally registered corporate entity in Nigeria (RC-9097268).
+# Metofina was a company founded in 2022 by Ami-Ikhine Kingsley, it is no longer active and has been fully discontinued, its operations and vision were succeeded by NLL Technology Limited (RC-9097268), the company behind PaySmart
 
 PaySmart is a mobile-first financial technology platform developed and operated by NLL Technology Limited (RC-9097268), a registered company in Nigeria.
 
